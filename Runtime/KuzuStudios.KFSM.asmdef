@@ -1,0 +1,16 @@
+{
+    "name": "KuzuStudios.KFSM",
+    "rootNamespace": "KuzuStudios.KFSM",
+    "references": [
+        "GUID:8c66516a6c38a304fb73a85b54a786c4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

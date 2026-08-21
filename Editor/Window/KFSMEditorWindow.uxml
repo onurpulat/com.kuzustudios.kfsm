@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Packages/com.kuzustudios.kfsm/Editor/Window/KFSMEditorWindow.uss?fileID=7433441132597879392&amp;guid=3b23110068a75674c84daae0575f44f6&amp;type=3#KFSMEditorWindow"/>
+    <KuzuStudios.KFSM.Editor.KFSMEWContainer/>
+</ui:UXML>
